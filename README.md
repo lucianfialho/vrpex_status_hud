@@ -35,9 +35,8 @@ npm run serve
 ```
 
 ### Tip
-```
-You need [vue-chrome-extension](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=pt-BR)
-```
+
+Use the vue chrome extension for debug [vue-chrome-extension](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=pt-BR)
 
 ### Credits
 
