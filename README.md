@@ -1,5 +1,7 @@
 # VRPEX status HUD
 
+![Example](https://media.discordapp.net/attachments/743527527271628911/760337617798692895/Sem_Titulo-1.jpg)
+
 ## Quick start
 You need [node-js](https://nodejs.org/en/)  
 You need [vue-cli](https://cli.vuejs.org/) 3.x.
@@ -13,6 +15,7 @@ git clone https://github.com/lucianfialhobp/vrpex_status_hud.git
 ```
 git submodule update --init --recursive
 ```
+
 ### 3. Install dependencies
 ```
 cd status_hud
